@@ -15,6 +15,10 @@ A simple To-Do List application built with Python and Tkinter that allows users 
 - bcrypt (for password security)
 - JSON (for data storage)
 
+## 📷 Screenshot
+![To-Do List App](screenshots)
+
+
 ## 🎯 How to Run the Project
 1. **Clone the repository:**
    ```sh
